@@ -1,0 +1,4 @@
+#Sat Oct 19 19:32:59 IST 2019
+base.0=C\:\\Users\\User\\Downloads\\inventory-manager-app-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

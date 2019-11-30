@@ -1,0 +1,4 @@
+#Fri Oct 11 10:10:42 IST 2019
+base.0=C\:\\Users\\User\\Downloads\\inventory-manager-app-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\User\\Downloads\\inventory-manager-app-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

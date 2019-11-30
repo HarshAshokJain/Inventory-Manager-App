@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\7e0d9a6b9037ee8e98dacc36455c094afcb1496c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_a40cc73f3918d197b2f8b170f0e0a8fb7e18fc2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\85dbe879767df0e4cc2cfedbf2a50cde24b2f4bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_cf10bf27dbfab0ea48c644a6f94887d27cecbe9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\ac1ef6697ac1024931b5704d34e65fe618ca4f0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_095a1af4b02067d9284066fe55fb977624299da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\1d5a06a26ab96d80cece60edd34498b45a9865f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_2623bca9f240c69405ce7dfe18b93c300ac5770f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\1e10608ba06b6b7b8962879e2c40a75a3c4e097f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_267ce5d331c2094e1cef2eada69e51e6a896814d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\565666cf3e3f39957af655e9a9f57845fd30d11b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_e4e18c5fb9a957f83254a5eb9db87a97e9fd1c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\f5c89d8491944604af2e5069b071f65be4fe0815\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_b5726fc02b76c3826407138a7e753f4be9ae7cc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\3dc60f295da5d58e474fbb2d052f4c3a105da256\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_901e0cca0f7919f516cd85f18d4f3904523cd92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\2ad6ec2b40fc98010e8e429adfcbce7dece3eefd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_de75c275d41fa8a2634a49ea75483f8f8d632700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\c1aad3485c7508ab63ec6d7ae6a72b945ad279e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_91f278ee3cc2f27c1a506f45ca98a47ca582495b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\7a794f4055ccdaae4a7212248cc72bc189b15f4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_1df996f821d2dfc3c52956b03e899a49404573c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\bfcc6dbe10216dbce4f589425a7ef07ccdba0422\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\classes_aa1b29cc7012c7469fb483eac2f75908508900df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\User\Downloads\inventory-manager-app-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_b3985f5e2fb0ed7f665da0ba2e3e1775450faf34.jar" />
+    </item>
+
+</items>
